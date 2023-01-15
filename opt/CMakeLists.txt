@@ -1,0 +1,1 @@
+add_library(console_parser console_parser.cpp console_parser.h)
